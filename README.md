@@ -3,15 +3,14 @@
 # AIM:To draw a UML diagram for an ATM and Banking System
 
 # SRS (Procedure):
-```
-Actors Used-:
 
-Customer
-Manager
-ATM
-Accountant
-```
-Software - StarUML
+Create the following diagrams in StarUML:
+1) Use Case Diagram
+2) Class Diagram
+3) Activity Diagram
+4) Package Diagram
+5) Communication Diagram
+6) Sequence Diagram
 
 # DIAGRAMS:
 ### USE CASE DIAGRAM:
