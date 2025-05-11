@@ -3,14 +3,14 @@
 # AIM:To draw a UML diagram for an ATM and Banking System
 
 # SRS (Procedure):
-
+```
 Actors Used-:
 
 Customer
 Manager
 ATM
 Accountant
-
+```
 Software - StarUML
 
 # DIAGRAMS:
