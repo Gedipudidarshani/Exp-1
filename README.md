@@ -3,7 +3,7 @@
 # AIM:To draw a UML diagram for an ATM and Banking System
 
 # SRS (Procedure):
-```
+
 Actors Used-:
 
 Customer
@@ -12,7 +12,7 @@ ATM
 Accountant
 
 Software - StarUML
-```
+
 # DIAGRAMS:
 ### USE CASE DIAGRAM:
 ![image](https://github.com/user-attachments/assets/5f339ea5-54f3-4405-9528-b2eb43463a32)
